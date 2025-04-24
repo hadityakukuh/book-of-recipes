@@ -6,3 +6,4 @@
 * [Garlic-Mayo](garlic-mayo.md) :smile:
 
 ## Hot sauces
+* [Lamb](lamb.md) ♨️
